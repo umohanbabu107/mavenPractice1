@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/umoha/IdeaProjects/mavenPractice1/src/test/java/myTests/RegressionTests.java">
+        <classes>
+            <class name="myTests.RegressionTests">
+                <methods>
+                    <include name="regTest1"/>
+                    <include name="regTest2"/>
+                    <include name="regTest3"/>
+                    <include name="regTest4"/>
+                    <include name="regTest5"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
