@@ -5,13 +5,6 @@
           name="C:/Users/umoha/IdeaProjects/mavenPractice1/src/test/java/myTests/RegressionTests.java">
         <classes>
             <class name="myTests.RegressionTests">
-                <methods>
-                    <include name="regTest1"/>
-                    <include name="regTest2"/>
-                    <include name="regTest3"/>
-                    <include name="regTest4"/>
-                    <include name="regTest5"/>
-                </methods>
             </class>
         </classes>
     </test>

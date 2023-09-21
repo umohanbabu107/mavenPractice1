@@ -5,11 +5,6 @@
           name="C:/Users/umoha/IdeaProjects/mavenPractice1/src/test/java/myTests/SmokeTests.java">
         <classes>
             <class name="myTests.SmokeTests">
-                <methods>
-                    <include name="smokeTest1"/>
-                    <include name="smokeTest2"/>
-                    <include name="smokeTest3"/>
-                </methods>
             </class>
         </classes>
     </test>
