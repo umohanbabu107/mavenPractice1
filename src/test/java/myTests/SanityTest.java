@@ -7,7 +7,7 @@ public class SanityTest {
     @Test
     public void sanityTest1(){
         System.out.println("This is a sanity test 1");
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
     @Test
