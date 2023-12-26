@@ -22,6 +22,8 @@
               <configuration>
                 <suiteXmlFiles>
                   <suiteXmlFile>regression.xml</suiteXmlFile>
+                  <suiteXmlFile>sanity.xml</suiteXmlFile>
+                  <suiteXmlFile>smoke.xml</suiteXmlFile>
                 </suiteXmlFiles>
               </configuration>
             </plugin>
